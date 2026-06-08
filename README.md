@@ -145,6 +145,8 @@ The Adult dataset contains demographic and socioeconomic information collected f
 
 ## Experimental Evaluation
 
+![Fariness Utility Trade-Off Graph](Fairness-Utility.png)
+
 The proposed approach was evaluated against standard k-Means baselines.
 
 ### Results
